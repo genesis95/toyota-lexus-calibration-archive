@@ -1,0 +1,15 @@
+# Python script — not included in this repo
+*.py
+
+# CUW files are too large for GitHub — hosted separately
+*.cuw
+CUW/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor folders
+.vscode/
+.idea/
